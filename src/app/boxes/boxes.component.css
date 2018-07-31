@@ -1,0 +1,7 @@
+.box{
+    background-color: #29e;
+    color: white;
+    border: 1px solid black;
+    /* -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); */
+  }
